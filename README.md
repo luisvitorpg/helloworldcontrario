@@ -1,6 +1,6 @@
 # Programa "Hello World" ao contrário
 ### Sim, eu consegui fazer a proeza de fazer um programa "Olá Mundo" ao contrário.
-> *Mas Luís Vitor, como assim ao contrário?*
+*Mas Luís Vitor, como assim ao contrário?*</br>
 Simples, na linguagem C, um programa "Olá mundo" normal seria assim:
 ```
 #include <stdio.h>
