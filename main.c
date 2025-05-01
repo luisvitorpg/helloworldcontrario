@@ -1,8 +1,7 @@
 /*
   * Sim, eu consegui a proeza de fazer ao contrário. xD
   *
-  * Copyright (C) 2025 Luís Vitor 
-  * Sob licença GNU GPL v3.0
+  * Feito por Luís Vitor
 */
 
 #include "header.h"
